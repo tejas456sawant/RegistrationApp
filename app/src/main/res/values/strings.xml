@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="register">Register</string>
+    <string name="event_registration">Event Registration</string>
+    <string name="name">Name :</string>
+    <string name="college">College :</string>
+    <string name="phone">Phone :</string>
+    <string name="gmail">Gmail :</string>
+    <string name="amount_to_pay">Amount To Pay :</string>
+</resources>
